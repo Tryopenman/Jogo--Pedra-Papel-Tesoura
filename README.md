@@ -16,7 +16,7 @@ No final, é apresentado o vencedor, ou seja o computador ou o utilizador. Caso 
  </div>
  
  
- ## Menu Escolha
+ ### Menu Escolha
  
  Neste menu o utilizador, a aprtir da inserção de um número tem a portunidade de escolher entre, Pedra, Papel, Tesoura ou Sair do programa.
  
@@ -24,4 +24,10 @@ No final, é apresentado o vencedor, ou seja o computador ou o utilizador. Caso 
   <img src="https://user-images.githubusercontent.com/118193667/216326351-967faa2d-b31c-4903-9af7-8d70857ce0af.png"/>
  </div>
  
+ 
+### Exemplo Resultado Final
 
+Apenas um exemplo do resultado final obtido, algumas características podem mudar conforme o resultado obtido pelo utilizador, ou seja, vitória, derrota ou empate
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/118193667/216327303-7fd6ff47-86f8-4ad9-8673-ca29002c566d.png"/>
+ </div>
